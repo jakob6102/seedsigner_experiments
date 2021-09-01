@@ -1,0 +1,1 @@
+This is a fun project to make a controller shell that the openpill case slots into to make it easier to hold and use. The design is currently rather crude and this is more of a gimmic for now, please leave feedback on changes to the design if you try it out as I might make a more ergonomic v3 at some point.
